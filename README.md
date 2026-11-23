@@ -12,7 +12,6 @@ The site will be at `https://gidrafwachira.github.io/GWBF_Portfolio/`.
 ## Structure
 
 - `index.html`: the whole site (no build step)
-- `assets/docs/`: published reports (Tana River case study, Yumbe report, Nigeria report)
 - `assets/photos/`: add work photos here
 
 ## Adding photos to "Gidraf at work"
